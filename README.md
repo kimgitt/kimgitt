@@ -3,7 +3,7 @@
 
 <img align="center" style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cruel367" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![kimgitt stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <!--
 **kimgitt/kimgitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
