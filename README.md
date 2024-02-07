@@ -22,6 +22,14 @@
 </div>
 <br><br>
 
+### 🛠 Tools 🛠
+<div>
+<img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</div>
+
+
 ![kimgitt stats](https://github-readme-stats.vercel.app/api?username=kimgitt&show_icons=true&theme=radical)
 
 <img align="center" style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cruel367" />
