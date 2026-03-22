@@ -10,6 +10,11 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 <div>
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+<div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -31,7 +36,7 @@
 <br><br>
 
 
-![kimgitt stats](https://github-readme-stats.vercel.app/api?username=kimgitt&show_icons=true&theme=radical)
+<!--![kimgitt stats](https://github-readme-stats.vercel.app/api?username=kimgitt&show_icons=true&theme=radical)-->
 
 <img align="center" style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cruel367" />
 
